@@ -1,0 +1,1 @@
+CREATE CATALOG test_catalog WITH ('type'='generic_in_memory')

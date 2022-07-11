@@ -1,0 +1,1 @@
+use catalog default_catalog

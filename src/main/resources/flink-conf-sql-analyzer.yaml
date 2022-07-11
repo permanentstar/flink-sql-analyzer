@@ -1,0 +1,5 @@
+# flink table config
+table.dynamic-table-options.enabled: true
+table.dynamic-table-options.local-time-zone: Asia/Shanghai
+table.exec.resource.default-parallelism: 1
+table.sql-dialect: default
