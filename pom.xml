@@ -22,7 +22,7 @@
 
     <groupId>com.daasyyds.flink</groupId>
     <artifactId>flink-sql-analyzer</artifactId>
-    <version>1.15.1-SNAPSHOT</version>
+    <version>1.15.1-2022.07.1</version>
     <description>light weight client parser/analyzer service on modern flink sql</description>
     <url>https://github.com/permanentstar/flink-sql-analyzer</url>
     <name>flink-sql-analyzer</name>
